@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "yxyQaZJRr4LPjuluGbuUGUpWTGg=",
+			"path": "TODO-APi-go/model",
+			"revision": "80b508896b25cd44d2e671ee1e78c30c2f2b41f0",
+			"revisionTime": "2020-05-25T12:00:25Z"
+		},
+		{
 			"checksumSHA1": "rMyrwMX+0Yn2hSCw8ixRTCIkOF8=",
 			"path": "github.com/go-sql-driver/mysql",
 			"revision": "128a6737a20278b625f8de647998fec7b7a2dc3e",
