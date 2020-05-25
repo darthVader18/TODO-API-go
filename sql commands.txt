@@ -1,0 +1,16 @@
+mysql -u root -p "db_name" 
+select * from information_schema.schemata;
+
+Create a new database user:
+
+GRANT ALL PRIVILEGES ON *.* TO 'db_user'@'localhost' IDENTIFIED BY 'P@s$w0rd123!';
+
+Log out of MySQL by typing: \q.
+
+Log in as the new database user you just created:
+
+mysql -u db_user -p
+
+Create the new database:
+
+CREATE DATABASE db_name;
